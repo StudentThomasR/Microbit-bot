@@ -1,0 +1,33 @@
+{
+  "emotionkey1": "1",
+  "emotionkey2": "2",
+  "emotionkey3": "3",
+  "emotionkey4": "4",
+  "emotionkey5": "5",
+  "emotionkey6": "6",
+  "emotionkey7": "7",
+  "emotionkey8": "8",
+  "emotionkey9": "9",
+
+  "soundkey1": "q",
+  "soundkey2": "w",
+  "soundkey3": "e",
+  "soundkey4": "r",
+  "soundkey5": "t",
+  "soundkey6": "y",
+  "soundkey7": "u",
+  "soundkey8": "i",
+  "soundkey9": "o",
+
+  "dicekey": "d",
+  "coinkey": "c",
+  "timerkey": "!",
+  "counterkey":" ", 
+
+  "clockonkey": "+",
+  "clockoffkey": "-",
+
+  "exitkey1": "c","_comment": "press ctrl plus the charactor ",
+  "exitkey2": "q", "_comment2": "press ctrl plus the charactor ",
+  "uprising" :  "end"
+}
